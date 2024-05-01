@@ -1,0 +1,1 @@
+Dự án nhỏ là phần mềm, ứng dụng hoặc trang web mô phỏng hoặc sử dụng các kỹ thuật liên quan đến an toàn thông tin như các loại hàm băm, chữ ký số, chứng thực thực thể, và bất kỳ chủ đề không giới hạn khác mà bạn tự tìm hiểu được.
